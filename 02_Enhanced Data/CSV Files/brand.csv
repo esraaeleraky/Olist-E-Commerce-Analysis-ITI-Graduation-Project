@@ -1,0 +1,16 @@
+brand_id,brand_name,brand_country,brand_description,brand_foundation_year,brand_website,brand_status,brand_tier
+1,TechPro,Brazil,Leading technology manufacturer,1978,techpro.com.br,active,premium
+2,HomePlus,Brazil,Premium home appliances,1985,homeplus.com.br,active,standard
+3,FitLife,Brazil,High-quality fitness equipment,1991,fitlife.com.br,active,premium
+4,BeautyGlow,Brazil,Luxury beauty products,1964,beautyglow.com.br,active,premium
+5,KidJoy,Brazil,Educational toys and games,1949,kidjoy.com.br,active,premium
+6,SmartHome,Brazil,Smart home solutions,1938,smarthome.com.br,active,premium
+7,GreenGarden,Brazil,Eco-friendly garden products,1947,greengarden.com.br,active,premium
+8,WorkWell,Brazil,Professional office supplies,1984,workwell.com.br,active,standard
+9,ArtCraft,Brazil,Creative art supplies,1891,artcraft.com.br,inactive,premium
+10,PetLove,Brazil,Premium pet care products,1932,petlove.com.br,active,premium
+11,AutoCare,Brazil,Automotive care products,1989,autocar.com.br,active,standard
+12,HealthFirst,Brazil,Health and wellness products,1911,healthfirst.com.br,active,standard
+13,SportMaster,Brazil,Professional sports equipment,1866,sportmaster.com.br,active,premium
+14,HomeStyle,Brazil,Modern home furnishings,1969,homestyle.com.br,inactive,premium
+15,ToolPro,Brazil,Professional-grade tools,1886,toolpro.com.br,active,premium

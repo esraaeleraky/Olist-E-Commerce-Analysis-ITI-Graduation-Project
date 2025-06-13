@@ -1,0 +1,6 @@
+logistics_company_id,logistics_company_name,logistics_contact_number,logistics_email,logistics_website
+1,DHL,+201001234567,support@dhl.com,https://www.dhl.com
+2,FedEx,+201002345678,help@fedex.com,https://www.fedex.com
+3,Aramex,+201003456789,contact@aramex.com,https://www.aramex.com
+4,UPS,+201004567890,support@ups.com,https://www.ups.com
+5,Bosta,+201005678901,info@bosta.com,https://www.bosta.co
