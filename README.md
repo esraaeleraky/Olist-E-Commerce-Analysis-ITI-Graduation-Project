@@ -70,4 +70,4 @@ Project developed collaboratively by a team of ITI trainees:
 
 ## 📝 Note
 
-Feel free to explore the project and its contents. We hope it serves as a helpful reference for trainees or anyone interested in building end-to-end BI solutions.
+Feel free to explore the project and its contents. We hope it serves as a helpful reference for anyone interested in building end-to-end BI solutions.
