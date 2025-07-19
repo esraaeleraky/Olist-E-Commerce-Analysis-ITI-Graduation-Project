@@ -58,7 +58,7 @@ We worked on enhancing raw data, designing a database and data warehouse, buildi
 
 ## 👥 Team Members
 
-Project developed collaboratively by a team of ITI trainees under supervision and mentoring:
+Project developed collaboratively by a team of ITI trainees:
 
 - Amal Ali  
 - Esraa Eleraky  
