@@ -4,8 +4,16 @@ This repository showcases our final graduation project as part of the Power BI t
 
 ## 📌 Project Overview
 
-The project simulates a real-world BI pipeline using data from **Olist**, a Brazilian e-commerce marketplace.  
-We worked on enhancing raw data, designing a database and data warehouse, building ETL pipelines, and developing dashboards to extract insights that support business decisions.
+This project simulates a real-world Business Intelligence (BI) pipeline using data from Olist, a Brazilian e-commerce marketplace.
+We transformed raw data into actionable insights by:
+- Cleaning and enhancing the dataset.
+- Designing and implementing a relational database and data warehouse.
+- Building ETL pipelines using SSIS.
+- Creating cubes with SSAS.
+- Developing SSRS reports.
+- Building interactive dashboards in Power BI and Tableau.
+- Building a web application that allows customers to track their orders. 
+
 
 ---
 
@@ -49,7 +57,7 @@ We worked on enhancing raw data, designing a database and data warehouse, buildi
 - `Tableau`: Shipping performance overview.
 
 ### [`08_Web Application`](./08_Web%20Application)
-- A simple web application built to demonstrate how BI insights can be embedded into a user-friendly interface.
+- A simple web application that allows customers to track their orders and view estimated delivery dates.
 
 ### [`09_Presentation`](./09_Presentation)
 - Final presentation slide on Canva.
