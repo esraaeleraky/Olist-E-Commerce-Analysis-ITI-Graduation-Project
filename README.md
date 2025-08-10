@@ -57,7 +57,13 @@ We transformed raw data into actionable insights by:
 - `Tableau`: Shipping performance overview.
 
 ### [`08_Web Application`](./08_Web%20Application)
-- A simple web application that allows customers to track their orders and view estimated delivery dates.
+- A simple web app for customers to track their orders.
+app.py — Runs the web server and handles routing.
+login.html — User login page.
+track.html — Order tracking page.
+style.css — Styles for the web pages.
+olist_logo.png — Company logo image.
+requirements.txt — Python dependencies list.
 
 ### [`09_Presentation`](./09_Presentation)
 - Final presentation slide on Canva.
