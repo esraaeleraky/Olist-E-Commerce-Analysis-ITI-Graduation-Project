@@ -2,7 +2,7 @@
 
 This repository showcases our final graduation project as part of the Power BI track at the Information Technology Institute (ITI).
 
-## 📌 Project Overview
+## Project Overview
 
 This project simulates a real-world Business Intelligence (BI) pipeline using data from Olist, a Brazilian e-commerce marketplace.
 We transformed raw data into actionable insights by:
@@ -75,7 +75,5 @@ Project developed collaboratively by a team of ITI trainees:
 - Rana Ehab  
 
 ---
-
-## 📝 Note
 
 Feel free to explore the project and its contents. We hope it serves as a helpful reference for anyone interested in building end-to-end BI solutions.
